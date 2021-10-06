@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(231, 250, 247);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.amount{
+    font-size: 4rem;
+
+}
+.users{
+      display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+.userN{
+   
+}
+.card{
+    margin:10px;
+    border-radius: 10px;
+    
+    background-color: crimson;
+     padding:10px;
+     display:flex;
+     width : 70vw;
+     justify-content: space-between;
+}
